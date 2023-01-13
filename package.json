@@ -1,0 +1,19 @@
+{
+  "name": "random",
+  "version": "1.0.0",
+  "description": "Function returns random number",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wild-arctic-fox/random.git"
+  },
+  "author": "wild-arctic-fox",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wild-arctic-fox/random/issues"
+  },
+  "homepage": "https://github.com/wild-arctic-fox/random#readme"
+}
